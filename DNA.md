@@ -18,6 +18,7 @@ If both strands are only partially bonded (Example 3 below), the function should
 e.g 1
 
 seq1 = 'GTCTTAGTGTAGCTATGCATGC';  // NB up-down
+
 seq2 = 'GCATGCATAGCTACACTACGAC';  // NB up-down
 
 checkDNA (seq1, seq2);
