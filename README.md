@@ -1,4 +1,4 @@
-# check_DNA Function
+# check_DNA() Function
 
 I came across this project on www.codewars.com.
 
